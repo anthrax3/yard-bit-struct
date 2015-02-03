@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{YARD plugin for documenting bit-struct's DSL}
   spec.description   = %q{}
   spec.homepage      = ""
-  spec.license       = "MIT"
+  spec.license       = "BSD 3-clause"
 
   spec.files         = `git ls-files -z`.split("\x0")
   spec.executables   = spec.files.grep(%r{^bin/}) { |f| File.basename(f) }

@@ -1,4 +1,4 @@
-# Yard::BitStruct
+# YARD::BitStruct
 
 YARD extension for bit-struct's DSL
 
